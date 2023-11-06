@@ -1,0 +1,164 @@
+[
+  {
+    "id": "identity_48",
+    "product": "banana",
+    "prediction": "...",
+    "ground truth": "...",
+    "score_vis": 1,
+    "score_guidance": 0.7
+  },
+  {
+    "id": "identity_69",
+    "product": "snacks",
+    "prediction": "...",
+    "ground truth": "...",
+    "score_vis": 1,
+    "score_guidance": 0.6
+  },
+  {
+    "id": "identity_66",
+    "product": "basin",
+    "prediction": "...",
+    "ground truth": "...",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_37",
+    "product": "instant noodles",
+    "prediction": "...",
+    "ground truth": "...",
+    "score_vis": 0,
+    "score_guidance": 0.3
+  },
+  {
+    "id": "identity_72",
+    "product": "biscuits",
+    "prediction": "...",
+    "ground truth": "...",
+    "score_vis": 1,
+    "score_guidance": 0.6
+  },
+  {
+    "id": "identity_9",
+    "product": "bottled water",
+    "prediction": "[Prediction Text for identity_9]",
+    "ground truth": "[Ground Truth for identity_9]",
+    "score_vis": 0,
+    "score_guidance": 0.5
+  },
+  {
+    "id": "identity_38",
+    "product": "frozen pork",
+    "prediction": "[Prediction Text for identity_38]",
+    "ground truth": "[Ground Truth for identity_38]",
+    "score_vis": 0,
+    "score_guidance": 0.5
+  },
+  {
+    "id": "identity_73",
+    "product": "chocolate favor biscuits",
+    "prediction": "[Prediction Text for identity_73]",
+    "ground truth": "[Ground Truth for identity_73]",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_36",
+    "product": "biscuits",
+    "prediction": "[Prediction Text for identity_36]",
+    "ground truth": "[Ground Truth for identity_36]",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_51",
+    "product": "office supplies",
+    "prediction": "[Prediction Text for identity_51]",
+    "ground truth": "[Ground Truth for identity_51]",
+    "score_vis": 0,
+    "score_guidance": 0.5
+  },
+  {
+    "id": "identity_49",
+    "product": "bowls",
+    "prediction": "Sure, I'd be happy to assist you. However, I need you to provide me with more information about the image you are referring to. Can you please describe the image or provide a link to it? This will help me to understand the scene and provide you with the necessary guidance.",
+    "ground truth": "You are standing to the right of the shelf, please turn left 90 degrees;Please Move forward 2 steps, then Remain standing;The item you need is at your Front.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_31",
+    "product": "something to drink",
+    "prediction": "Sure, I'd be happy to assist you. Based on the image, it appears that there is a variety of products available in the grocery store, including drinks. However, I cannot determine if the specific product you are looking for is within your field of view or not. To determine if the product is present, you would need to carefully examine the shelves and display cases to see if it is there. As for the walkable passage, it is not explicitly described in the image, but it is assumed that there is a path for you to follow in order to reach the product you need. To obtain the product, you would need to navigate through the store and look for the section that carries the type of drink you are interested in. Once you have located the product, you can pick it up and take it to the checkout area to complete your purchase.",
+    "ground truth": "Starting from the current position;Please Move forward 4 steps, then Remain standing;The item you need is at your Front.",
+    "score_vis": 0,
+    "score_guidance": 0.2
+  },
+  {
+    "id": "identity_47",
+    "product": "snacks",
+    "prediction": "Sure, I'd be happy to assist you. Can you please provide me with more information about the specific location and brand of the snack you are looking for? This will help me provide you with more accurate guidance.",
+    "ground truth": "Starting from the current position;Please Move forward 3 steps, then Turn left 45 degrees;The item you need is at your Left.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_21",
+    "product": "mustard",
+    "prediction": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image you are referring to. However, I can provide you with some general guidance on how to find and obtain a product in a grocery store.",
+    "ground truth": "You are standing to the right of the shelf, please turn left 90 degrees;Please Move forward 1 steps, then Remain standing;The item you need is at your Left.",
+    "score_vis": 0,
+    "score_guidance": 0.2
+  },
+  {
+    "id": "identity_32",
+    "product": "cooking oil",
+    "prediction": "Sure, I'd be happy to assist you. Based on the image, it appears that cooking oil is available in the grocery store. However, without knowing the specific location of the product in the store, I cannot provide you with a more detailed guide. Can you please provide me with the brand or type of cooking oil you are looking for? This will help me give you a more accurate guide.",
+    "ground truth": "Starting from the current position;Please Move forward 6 steps, then Turn left 45 degrees;The item you need is at your Left.",
+    "score_vis": 0,
+    "score_guidance": 0.2
+  },
+  {
+    "id": "identity_78",
+    "product": "bread",
+    "prediction": "Hello! I'm sorry, but as an AI language model, I do not have access to the current image you are referring to. Can you please provide me with more information about the image you are referring to? This will help me provide you with the necessary guidance.",
+    "ground truth": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Front.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_74",
+    "product": "fruits",
+    "prediction": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image you are referring to. However, I can provide general guidance on how to navigate a grocery store for someone who is visually impaired...",
+    "ground truth": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Front.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_18",
+    "product": "frozen food",
+    "prediction": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image you are referring to. However, I can provide you with some general guidance on how to find and obtain frozen food in a grocery store...",
+    "ground truth": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Middle lower.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_85",
+    "product": "refrigerated fruits",
+    "prediction": "As an AI language model, I do not have access to the current image you are referring to. However, I can provide general guidance on how to navigate a grocery store for someone who is visually impaired...",
+    "ground truth": "Starting from the current position;Please Move forward 3 steps, then Turn right 45 degrees;The item you need is at your Right.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_13",
+    "product": "frozen fish",
+    "prediction": "As an AI language model, I am not able to see the image you are referring to. However, I can provide you with general guidance on how to find and obtain frozen fish in a grocery store...",
+    "ground truth": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Middle lower.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  }
+]
+
+

@@ -1,0 +1,92 @@
+[
+    {
+        "img_id": 48,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/48.jpg",
+        "product": "banana",
+        "prediction_i": "As an AI language model, I am not able to see the image or have information about the specific location you are referring to. However, I can provide you with some general guidance on how to find bananas in a grocery store.\n\n1. Look for the produce section of the store, which is typically located near the front of the store.\n2. Look for a section that is specifically designated for bananas, which may be located near the entrance or near the checkout area.\n3. Look for bananas that are hanging from a display rack, as this is a common way to display bananas in a grocery store.\n4. If you cannot find bananas hanging from a display rack, look for bananas that are stacked on a shelf or in a bin.\n5. Once you have found the bananas, you can pick them off the display rack or off the shelf or bin and place them in your shopping cart or basket.\n6. If you are visually impaired, it may be helpful to have a friend or family member assist you in locating the bananas or to use a white cane to navigate through the store.",
+        "ground truth": "Starting from the current position;Please Move forward 3 steps, then Turn right 45 degrees;The item you need is at your Front.",
+        "score_vis": 0,
+        "score_guidance": 0.1
+    },
+    {
+        "img_id": 69,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/69.jpg",
+        "product": "snacks",
+        "prediction_i": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image you are referring to. However, I can provide you with some general guidance on how to navigate a grocery store if you tell me what product you need. Please let me know the product you need and I'll do my best to guide you.",
+        "ground truth": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Left.",
+        "score_vis": 0,
+        "score_guidance": 0.1
+    },
+    {
+        "img_id": 66,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/66.jpg",
+        "product": "basin",
+        "prediction_i": "As an AI, I can understand that you need assistance to find the basin in the image. Based on the scene in the image, I can confirm that there are several shelves filled with various types of bowls and containers. However, I cannot determine if there is a basin among them. \n\nTo find the basin, you can start by scanning the shelves carefully and looking for a basin. It is likely that the basin will be placed near other similar containers or bowls. If you don't find a basin, you can ask the store staff for assistance. They may be able to guide you to the right location or show you the available options. \n\nAs for the passage in front of you, it is not possible for me to determine if it is walkable or not based on the image. However, if you are in a physical store, you can check for yourself by walking towards the shelves. If you are in an online store, you can check the product description or reviews to see if other customers have mentioned the walkability of the passage.",
+        "ground truth": "You are standing to the right of the shelf, please turn left 90 degrees;The item you need is at your Middle upper.",
+        "score_vis": 0,
+        "score_guidance": 0.1
+    },
+    {
+        "img_id": 37,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/37.jpg",
+        "product": "instant noodles",
+        "prediction_i": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image you are referring to. However, I can provide you with some general guidance on how to navigate a grocery store if you tell me what product you need. Please let me know the name of the instant noodles you are looking for, and I'll do my best to guide you.",
+        "ground truth": "Starting from the current position;Please Move forward 1 steps, then Turn right 45 degrees;The item you need is at your Front.",
+        "score_vis": 0,
+        "score_guidance": 0.1
+    },
+    {
+        "img_id": 72,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/72.jpg",
+        "product": "biscuits",
+        "prediction_i": "As an AI language model, I am not able to provide visual information or guidance. However, I can provide you with some general tips to find biscuits in a grocery store:\n\n  1. Look for the baking aisle: Biscuits are typically found in the baking aisle of a grocery store.\n  2. Check the shelves: Biscuits are usually displayed on shelves in the baking aisle. Look for packages of biscuits and check the labels to make sure you are getting the type of biscuits you want.\n  3. Ask for assistance: If you are having trouble finding biscuits, don't hesitate to ask a store employee for help. They can direct you to the right aisle or help you locate a specific brand or type of biscuit.",
+        "ground truth": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Middle upper.",
+        "score_vis": 0,
+        "score_guidance": 0.1
+    },
+    {
+        "img_id": 9,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/9.jpg",
+        "product": "bottled water",
+        "prediction_i": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image you are referring to. Could you please provide me with more information about the image you are referring to? This will help me provide you with the necessary guidance to obtain the bottled water you need.",
+        "ground truth": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Bottom right.",
+        "score_vis": 0,
+        "score_guidance": 0.1
+    },
+    {
+        "img_id": 38,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/38.jpg",
+        "product": "frozen pork",
+        "prediction_i": "As an AI language model, I am not able to see the image you are referring to. However, based on your description, it seems that you are looking for frozen pork in a grocery store. Here are some steps you can follow to find the product:\n\n  1. Look for the meat section in the grocery store. This is usually located near the back of the store or in the freezer section.\n  2. Look for signs that say \"frozen pork\" or \"pork\" to help you locate the product.\n  3. If you are having trouble finding the product, ask a store employee for help. They can guide you to the location of the frozen pork.\n  4. Once you have found the frozen pork, you can pick it up and take it to the checkout area to pay for it.\n\nI hope this helps you find the frozen pork you need!",
+        "ground truth": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Bottom right.",
+        "score_vis": 0,
+        "score_guidance": 0.4
+    },
+    {
+        "img_id": 73,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/73.jpg",
+        "product": "chocolate favor biscuits",
+        "prediction_i": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image you are referring to. However, I can provide you with some general guidance on how to navigate a grocery store if you tell me what product you need. Please let me know the name or brand of the chocolate favor biscuits so I can guide you accordingly.",
+        "ground truth": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Front.",
+        "score_vis": 0,
+        "score_guidance": 0.1
+    },
+    {
+        "img_id": 36,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/36.jpg",
+        "product": "biscuits",
+        "prediction_i": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image you are referring to. Could you please provide me with more information about the image you are referring to? This will help me provide you with better assistance.",
+        "ground truth": "Starting from the current position;Please Move forward 1 steps, then Turn left 45 degrees;The item you need is at your Top left.",
+        "score_vis": 0,
+        "score_guidance": 0.1
+    },
+    {
+        "img_id": 51,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/51.jpg",
+        "product": "office supplies",
+        "prediction_i": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image you are referring to. Can you please provide me with more information about the image you are referring to? This will help me provide you with the necessary guidance to obtain the office supplies you need.",
+        "ground truth": "Starting from the current position;Please Move forward 6 steps, then Remain standing;The item you need is at your Left.",
+        "score_vis": 0,
+        "score_guidance": 0.1
+    }
+]

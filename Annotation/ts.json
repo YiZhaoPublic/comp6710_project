@@ -1,0 +1,262 @@
+[
+    {
+        "id": "identity_48",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/48.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: banana, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "Starting from the current position;Please Move forward 3 steps, then Turn right 45 degrees;The item you need is at your Front."
+            }
+        ]
+    },
+    {
+        "id": "identity_69",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/69.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: snacks, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Left."
+            }
+        ]
+    },
+    {
+        "id": "identity_66",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/66.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: basin, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "You are standing to the right of the shelf, please turn left 90 degrees;The item you need is at your Middle upper."
+            }
+        ]
+    },
+    {
+        "id": "identity_37",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/37.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: instant noodles, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "Starting from the current position;Please Move forward 1 steps, then Turn right 45 degrees;The item you need is at your Front."
+            }
+        ]
+    },
+    {
+        "id": "identity_72",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/72.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: biscuits, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Middle upper."
+            }
+        ]
+    },
+    {
+        "id": "identity_9",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/9.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: bottled water, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Bottom right."
+            }
+        ]
+    },
+    {
+        "id": "identity_38",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/38.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: frozen pork, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Bottom right."
+            }
+        ]
+    },
+    {
+        "id": "identity_73",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/73.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: chocolate favor biscuits, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Front."
+            }
+        ]
+    },
+    {
+        "id": "identity_36",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/36.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: biscuits, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "Starting from the current position;Please Move forward 1 steps, then Turn left 45 degrees;The item you need is at your Top left."
+            }
+        ]
+    },
+    {
+        "id": "identity_51",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/51.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: office supplies, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "Starting from the current position;Please Move forward 6 steps, then Remain standing;The item you need is at your Left."
+            }
+        ]
+    },
+    {
+        "id": "identity_49",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/49.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: bowls, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "You are standing to the right of the shelf, please turn left 90 degrees;Please Move forward 2 steps, then Remain standing;The item you need is at your Front."
+            }
+        ]
+    },
+    {
+        "id": "identity_31",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/31.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: something to drink, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "Starting from the current position;Please Move forward 4 steps, then Remain standing;The item you need is at your Front."
+            }
+        ]
+    },
+    {
+        "id": "identity_47",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/47.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: snacks, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "Starting from the current position;Please Move forward 3 steps, then Turn left 45 degrees;The item you need is at your Left."
+            }
+        ]
+    },
+    {
+        "id": "identity_21",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/21.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: mustard, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "You are standing to the right of the shelf, please turn left 90 degrees;Please Move forward 1 steps, then Remain standing;The item you need is at your Left."
+            }
+        ]
+    },
+    {
+        "id": "identity_32",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/32.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: cooking oil, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "Starting from the current position;Please Move forward 6 steps, then Turn left 45 degrees;The item you need is at your Left."
+            }
+        ]
+    },
+    {
+        "id": "identity_78",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/78.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: bread, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Front."
+            }
+        ]
+    },
+    {
+        "id": "identity_74",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/74.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: fruits, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Front."
+            }
+        ]
+    },
+    {
+        "id": "identity_18",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/18.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: frozen food, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Middle lower."
+            }
+        ]
+    },
+    {
+        "id": "identity_85",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/85.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: refrigerated fruits, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "Starting from the current position;Please Move forward 3 steps, then Turn right 45 degrees;The item you need is at your Right."
+            }
+        ]
+    },
+    {
+        "id": "identity_13",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "Picture 1: <img>/mnt/zy/projects/report/resized_images_1024_768/13.jpg</img>\nHello, I am visually impaired and need your assistance to complete the task of 'obtaining a product\u2018.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? The product I need is: frozen fish, please provide guidance for me based on the scene in the image."
+            },
+            {
+                "from": "assistant",
+                "value": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Middle lower."
+            }
+        ]
+    }
+]

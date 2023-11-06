@@ -1,0 +1,92 @@
+[
+    {
+        "img_id": 48,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/48.jpg",
+        "product": "banana",
+        "prediction_i": "As an AI language model, I do not have access to the current visual information. However, I can provide some general guidance for visually impaired individuals to navigate grocery stores.\n\n1. Ask for assistance: Many grocery stores have staff who are trained to assist customers with visual impairments. You can ask for assistance at the store's customer service desk or the entrance.\n\n2. Use a white cane: A white cane can be a helpful tool for visually impaired individuals to navigate through grocery stores. You can hold the cane in your dominant hand and use it to guide your way.\n\n3. Use your other senses: You can use your sense of hearing to your advantage. Listen for announcements about sales, special deals, or new products. You can also use your sense of smell to identify fresh produce or other items.\n\n4. Familiarize yourself with the layout: Before you go grocery shopping, take some time to familiarize yourself with the layout of the store. This will help you know where to go to find the items you need.\n\n5. Use labels and signs: Many grocery stores have labels and signs that provide information about the products. Use these labels and signs to your advantage to locate the items you need.\n\nRemember, it may take some time to get used to navigating grocery stores with visual impairments. Be patient and persistent, and don't be afraid to ask for help when you need it.",
+        "ground truth": "Starting from the current position;Please Move forward 3 steps, then Turn right 45 degrees;The item you need is at your Front.",
+        "score_vis": 0,
+        "score_guidance": 0.1
+    },
+    {
+        "img_id": 69,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/69.jpg",
+        "product": "snacks",
+        "prediction_i": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image or your location. However, I can provide some general guidance for visually impaired individuals to navigate grocery stores.\n\nWhen navigating a grocery store, it's important to have a clear idea of what you need to buy and to plan your route ahead of time. You can use a map of the store or create a list of items you need to purchase. It's also helpful to use a white cane or guide dog to help you navigate the store.\n\nWhen you enter the store, start by looking for the section that contains the products you need. You can use your senses of hearing and smell to help you locate specific items. For example, if you need snacks, you can listen for the sound of the snack aisle or use your sense of smell to detect the scent of snacks.\n\nAs you move through the store, make sure to keep your white cane or guide dog in a visible location, such as on your belt or in your hand. This will help you avoid any obstacles or people who may not be aware of your needs.\n\nIf you need help finding a specific product, don't hesitate to ask a store employee for assistance. They can help you locate the product and guide you to the correct aisle.\n\nRemember to take your time and take breaks as needed. Grocery shopping can be overwhelming, so it's important to take care of yourself and your needs throughout the process.",
+        "ground truth": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Left.",
+        "score_vis": 0,
+        "score_guidance": 0.1
+    },
+    {
+        "img_id": 66,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/66.jpg",
+        "product": "basin",
+        "prediction_i": "Sure, I'd be happy to assist you. Based on the image, it appears that there is a variety of basins available in the store. To find the basin that you need, you can start by scanning the shelves and racks that are arranged in front of you. You may need to move some items out of the way to access the basin you're looking for. Once you've located the basin, you can examine it to determine if it meets your needs. If you have any questions or need further assistance, don't hesitate to ask.",
+        "ground truth": "You are standing to the right of the shelf, please turn left 90 degrees;The item you need is at your Middle upper.",
+        "score_vis": 1,
+        "score_guidance": 0.5
+    },
+    {
+        "img_id": 37,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/37.jpg",
+        "product": "instant noodles",
+        "prediction_i": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image you are referring to. However, I can provide general guidance on how to navigate a grocery store visually impaired. \n\n1. Start by looking at the shelves or racks that contain the products you need. If you have a specific brand or type of product in mind, start by looking for it in that section.\n\n2. Use your sense of touch to feel the products. Many products, such as fruits and vegetables, have different textures that can help you identify them.\n\n3. Listen to the sounds the products make. For example, some products like bread or cookies make a hollow or crunchy sound when you tap them.\n\n4. Look for labels or tags that indicate the product you need. These can be located on the front, back, or sides of the products.\n\n5. Ask for assistance from store staff or other shoppers. Many grocery stores have employees who are trained to assist visually impaired customers.\n\n6. Use a white cane or guide dog to navigate the store.\n\n7. Use a smartphone app or device that can help you navigate the store and locate products.\n\nRemember, it's important to take your time and not rush. Don't be afraid to ask for help or use the resources available to you. Good luck!",
+        "ground truth": "Starting from the current position;Please Move forward 1 steps, then Turn right 45 degrees;The item you need is at your Front.",
+        "score_vis": 0,
+        "score_guidance": 0.1
+    },
+    {
+        "img_id": 72,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/72.jpg",
+        "product": "biscuits",
+        "prediction_i": "Based on the image, it is not possible to determine if the biscuits are present in the field of view or if there is a walkable passage in front of you. Additionally, it is not possible to provide guidance on how to obtain the product as the image does not contain any information about the location or availability of the biscuits. It is important to note that as an AI language model, I do not have access to real-time information about the store you are in or the products available for purchase. It is recommended to refer to a physical guide or use a screen reader to navigate the store and locate the product you need.",
+        "ground truth": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Middle upper.",
+        "score_vis": 0,
+        "score_guidance": 0.1
+    },
+    {
+        "img_id": 9,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/9.jpg",
+        "product": "bottled water",
+        "prediction_i": "Sure, I'd be happy to assist you. Based on the image, it appears that there is a selection of bottled water on the shelves, so it is present in the field of view. You are standing in front of the shelves, so you should be able to walk up to the bottled water and pick it off the shelf. Just make sure to use your cane to navigate and avoid any obstacles in your path.",
+        "ground truth": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Bottom right.",
+        "score_vis": 1,
+        "score_guidance": 0.7
+    },
+    {
+        "img_id": 38,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/38.jpg",
+        "product": "frozen pork",
+        "prediction_i": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image or your location. However, I can provide you with some general guidance on how to navigate a grocery store if you tell me your starting point and the product you need.",
+        "ground truth": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Bottom right.",
+        "score_vis": 0,
+        "score_guidance": 0.1
+    },
+    {
+        "img_id": 73,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/73.jpg",
+        "product": "chocolate favor biscuits",
+        "prediction_i": "Sure, I'd be happy to help you locate the chocolate favor biscuits in the image. Please follow the steps below:\n\n  1. Is the product you need present in the field of view of the image? a. Yes, the chocolate favor biscuits are present in the image.\n  2. Is there a walkable passage in front of you? a. Yes, there is a walkable passage in front of you.\n  3. How should you go about obtaining the product you need? a. To obtain the chocolate favor biscuits, you should walk down the walkable passage until you reach the aisle where the product is displayed. You can then identify the shelf with the chocolate favor biscuits and take them from there. If you have any further questions or need assistance, please let me know.",
+        "ground truth": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Front.",
+        "score_vis": 1,
+        "score_guidance": 0.5
+    },
+    {
+        "img_id": 36,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/36.jpg",
+        "product": "biscuits",
+        "prediction_i": "Sure, I'd be happy to assist you. Based on the image, it appears that the product you need (biscuits) are present in the store. However, I cannot see the specific location of the biscuits in the image, so I will need some guidance from you on where to look for them. As for the walkable passage, it is not explicitly described in the image, but I can assume that there is a walkable passage in front of you that you can use to navigate through the store. To obtain the biscuits, you can follow the walkable passage and look for the biscuits on the shelves or in the aisles. If you need further assistance, please let me know.",
+        "ground truth": "Starting from the current position;Please Move forward 1 steps, then Turn left 45 degrees;The item you need is at your Top left.",
+        "score_vis": 1,
+        "score_guidance": 0.3
+    },
+    {
+        "img_id": 51,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/51.jpg",
+        "product": "office supplies",
+        "prediction_i": "Sure, I'd be happy to assist you. Based on the image, it appears that you are standing in front of a store with several shelves of office supplies. To obtain the product you need, you should first identify the specific type of office supply you need, such as a particular type of pen or paper. Once you have identified the item, you can navigate to the appropriate shelf and look for it among the various products. If you are unable to find the item on the shelf, you may need to ask an employee for assistance. It is also important to note that there are chairs and a table in the store, which you can use to sit and rest if needed.",
+        "ground truth": "Starting from the current position;Please Move forward 6 steps, then Remain standing;The item you need is at your Left.",
+        "score_vis": 1,
+        "score_guidance": 0.4
+    }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "identity_48",
+    "product": "banana",
+    "prediction": "...",
+    "ground truth": "Starting from the current position;Please Move forward 3 steps, then Turn right 45 degrees;The item you need is at your Front.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_69",
+    "product": "snacks",
+    "prediction": "...",
+    "ground truth": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Left.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_66",
+    "product": "basin",
+    "prediction": "...",
+    "ground truth": "You are standing to the right of the shelf, please turn left 90 degrees;The item you need is at your Middle upper.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_37",
+    "product": "instant noodles",
+    "prediction": "...",
+    "ground truth": "Starting from the current position;Please Move forward 1 steps, then Turn right 45 degrees;The item you need is at your Front.",
+    "score_vis": 1,
+    "score_guidance": 0.7
+  },
+  {
+    "id": "identity_72",
+    "product": "biscuits",
+    "prediction": "...",
+    "ground truth": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Middle upper.",
+    "score_vis": 1,
+    "score_guidance": 0.7
+  },
+  {
+    "id": "identity_9",
+    "product": "bottled water",
+    "prediction": "...",
+    "ground truth": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Bottom right.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_38",
+    "product": "frozen pork",
+    "prediction": "[General guidance on finding products...]",
+    "ground truth": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Bottom right.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_73",
+    "product": "chocolate favor biscuits",
+    "prediction": "[General guidance on finding products...]",
+    "ground truth": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Front.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_36",
+    "product": "biscuits",
+    "prediction": "[General guidance on navigating a grocery store for someone who is visually impaired...]",
+    "ground truth": "Starting from the current position;Please Move forward 1 steps, then Turn left 45 degrees;The item you need is at your Top left.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_51",
+    "product": "office supplies",
+    "prediction": "[General guidance on navigating an office supply store for someone who is visually impaired...]",
+    "ground truth": "Starting from the current position;Please Move forward 6 steps, then Remain standing;The item you need is at your Left.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  }
+]
+

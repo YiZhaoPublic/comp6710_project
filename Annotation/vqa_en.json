@@ -1,0 +1,432 @@
+[
+    {
+        "Image_index": 0,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: soy souce, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Top right."
+    },
+    {
+        "Image_index": 1,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: frozen food, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 6 steps, then Turn right 90 degrees;Please Move forward 4 steps, then Remain standing;The item you need is at your Front."
+    },
+    {
+        "Image_index": 2,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: apple, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 3 steps, then Remain standing;The item you need is at your Left."
+    },
+    {
+        "Image_index": 3,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: cabbage, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 3 steps, then Turn right 90 degrees;The item you need is at your Middle lower."
+    },
+    {
+        "Image_index": 4,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: vegetables, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 7 steps, then Turn right 45 degrees;The item you need is at your Bottom right."
+    },
+    {
+        "Image_index": 5,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: bread, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Front."
+    },
+    {
+        "Image_index": 6,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: frozen meat, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Bottom left."
+    },
+    {
+        "Image_index": 7,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: watermelon, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Bottom right."
+    },
+    {
+        "Image_index": 8,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: bottle of water, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 5 steps, then Turn left 45 degrees;The item you need is at your Front."
+    },
+    {
+        "Image_index": 9,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: bottled water, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Bottom right."
+    },
+    {
+        "Image_index": 10,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: bread, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 2 steps, then Turn left 45 degrees;The item you need is at your Left."
+    },
+    {
+        "Image_index": 11,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: tomatoes, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Middle lower."
+    },
+    {
+        "Image_index": 12,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: daily necessities, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 4 steps, then Turn right 45 degrees;The item you need is at your Middle lower."
+    },
+    {
+        "Image_index": 13,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: frozen fish, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Middle lower."
+    },
+    {
+        "Image_index": 14,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: boxed milk, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Front."
+    },
+    {
+        "Image_index": 15,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: chips, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 2 steps, then Turn right 45 degrees;The item you need is at your Middle lower."
+    },
+    {
+        "Image_index": 16,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: snacks, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 6 steps, then Turn right 45 degrees;The item you need is at your Front."
+    },
+    {
+        "Image_index": 17,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: chips, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Right."
+    },
+    {
+        "Image_index": 18,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: frozen food, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Middle lower."
+    },
+    {
+        "Image_index": 19,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: pepper, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Front."
+    },
+    {
+        "Image_index": 20,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: something to drink, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 3 steps, then Turn right 45 degrees;The item you need is at your Front."
+    },
+    {
+        "Image_index": 21,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: mustard, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the right of the shelf, please turn left 90 degrees;Please Move forward 1 steps, then Remain standing;The item you need is at your Left."
+    },
+    {
+        "Image_index": 22,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: beer, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the right of the shelf, please turn left 90 degrees;Please Move forward 1 steps, then Remain standing;The item you need is at your Front."
+    },
+    {
+        "Image_index": 23,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: vegetables, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 6 steps, then Turn left 90 degrees;Please Move forward 1 steps, then Remain standing;The item you need is at your Middle lower."
+    },
+    {
+        "Image_index": 24,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: plastic chairs, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Front."
+    },
+    {
+        "Image_index": 25,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: chopsticks, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 1 steps, then Turn right 45 degrees;Please Move forward 2 steps, then Turn left 90 degrees;The item you need is at your Top right."
+    },
+    {
+        "Image_index": 26,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: chocolate milk, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Middle upper."
+    },
+    {
+        "Image_index": 27,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: chips, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 2 steps, then Turn right 45 degrees;The item you need is at your Top right."
+    },
+    {
+        "Image_index": 28,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: green vegetables, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the right of the shelf, please turn left 90 degrees;The item you need is at your Left."
+    },
+    {
+        "Image_index": 29,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: fruits, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 1 steps, then Turn right 90 degrees;The item you need is at your Front."
+    },
+    {
+        "Image_index": 30,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: red wine, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Right."
+    },
+    {
+        "Image_index": 31,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: something to drink, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 4 steps, then Remain standing;The item you need is at your Front."
+    },
+    {
+        "Image_index": 32,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: cooking oil, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 6 steps, then Turn left 45 degrees;The item you need is at your Left."
+    },
+    {
+        "Image_index": 33,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: bottled milk, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Front."
+    },
+    {
+        "Image_index": 34,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: a carton of milk, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the right of the shelf, please turn left 90 degrees;The item you need is at your Left."
+    },
+    {
+        "Image_index": 35,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: chips, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Left."
+    },
+    {
+        "Image_index": 36,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: biscuits, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 1 steps, then Turn left 45 degrees;The item you need is at your Top left."
+    },
+    {
+        "Image_index": 37,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: instant noodles, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 1 steps, then Turn right 45 degrees;The item you need is at your Front."
+    },
+    {
+        "Image_index": 38,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: frozen pork, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Bottom right."
+    },
+    {
+        "Image_index": 39,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: banana, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 6 steps, then Turn right 45 degrees;Please Move forward 1 steps, then Remain standing;The item you need is at your Bottom left."
+    },
+    {
+        "Image_index": 40,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: watermelon cut, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 9 steps, then Turn right 90 degrees;Please Move forward 6 steps, then Remain standing;The item you need is at your Middle lower."
+    },
+    {
+        "Image_index": 41,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: soymilk, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Left."
+    },
+    {
+        "Image_index": 42,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: noodles, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Top right."
+    },
+    {
+        "Image_index": 43,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: instant noodles, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Top right."
+    },
+    {
+        "Image_index": 44,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: Paper towel household pack, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 4 steps, then Turn left 90 degrees;The item you need is at your Middle lower."
+    },
+    {
+        "Image_index": 45,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: onion, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Front."
+    },
+    {
+        "Image_index": 46,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: Hami melon, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Front."
+    },
+    {
+        "Image_index": 47,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: snacks, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 3 steps, then Turn left 45 degrees;The item you need is at your Left."
+    },
+    {
+        "Image_index": 48,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: banana, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 3 steps, then Turn right 45 degrees;The item you need is at your Front."
+    },
+    {
+        "Image_index": 49,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: bowls, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the right of the shelf, please turn left 90 degrees;Please Move forward 2 steps, then Remain standing;The item you need is at your Front."
+    },
+    {
+        "Image_index": 50,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: canned food, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 5 steps, then Turn left 90 degrees;Please Move forward 1 steps, then Remain standing;The item you need is at your Top right."
+    },
+    {
+        "Image_index": 51,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: office supplies, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 6 steps, then Remain standing;The item you need is at your Left."
+    },
+    {
+        "Image_index": 52,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: something to drink, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 1 steps, then Remain standing;The item you need is at your Middle lower."
+    },
+    {
+        "Image_index": 53,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: chocolate favor cornmeal, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Left."
+    },
+    {
+        "Image_index": 54,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: banana, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 8 steps, then Turn right 45 degrees;The item you need is at your Bottom right."
+    },
+    {
+        "Image_index": 55,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: bowls, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the left of the shelf, please turn right 90 degrees;Please Move forward 5 steps, then Turn left 90 degrees;Please Move forward 2 steps, then Turn right 90 degrees;The item you need is at your Front."
+    },
+    {
+        "Image_index": 56,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: snacks, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 3 steps, then Turn right 45 degrees;The item you need is at your Front."
+    },
+    {
+        "Image_index": 57,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: basin, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 5 steps, then Turn right 90 degrees;The item you need is at your Front."
+    },
+    {
+        "Image_index": 58,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: zucchini, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Front."
+    },
+    {
+        "Image_index": 59,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: frozen chicken, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 3 steps, then Turn right 90 degrees;The item you need is at your Middle lower."
+    },
+    {
+        "Image_index": 60,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: snacks, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 9 steps, then Turn right 90 degrees;The item you need is at your Left."
+    },
+    {
+        "Image_index": 61,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: ham, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Middle lower."
+    },
+    {
+        "Image_index": 62,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: vegetables, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Middle lower."
+    },
+    {
+        "Image_index": 63,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: chips, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the right of the shelf, please turn left 90 degrees;The item you need is at your Right."
+    },
+    {
+        "Image_index": 64,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: something to drink, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Left."
+    },
+    {
+        "Image_index": 65,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: bread, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the right of the shelf, please turn left 90 degrees;The item you need is at your Middle upper."
+    },
+    {
+        "Image_index": 66,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: basin, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the right of the shelf, please turn left 90 degrees;The item you need is at your Middle upper."
+    },
+    {
+        "Image_index": 67,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: vegetables, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the right of the shelf, please turn left 90 degrees;The item you need is at your Top right."
+    },
+    {
+        "Image_index": 68,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: refrigerated meat, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Top right."
+    },
+    {
+        "Image_index": 69,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: snacks, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Left."
+    },
+    {
+        "Image_index": 70,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: chips, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 3 steps, then Remain standing;The item you need is at your Top left."
+    },
+    {
+        "Image_index": 71,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: Champagne, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the left of the shelf, please turn right 90 degrees;Please Move forward 1 steps, then Remain standing;The item you need is at your Middle lower."
+    },
+    {
+        "Image_index": 72,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: biscuits, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Middle upper."
+    },
+    {
+        "Image_index": 73,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: chocolate favor biscuits, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Front."
+    },
+    {
+        "Image_index": 74,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: fruits, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Front."
+    },
+    {
+        "Image_index": 75,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: biscuits, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 1 steps, then Remain standing;The item you need is at your Middle upper."
+    },
+    {
+        "Image_index": 76,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: chips, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 5 steps, then Turn left 45 degrees;Please Move forward 2 steps, then Remain standing;The item you need is at your Left."
+    },
+    {
+        "Image_index": 77,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: frozen pork, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Front."
+    },
+    {
+        "Image_index": 78,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: bread, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Front."
+    },
+    {
+        "Image_index": 79,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: family pack rice, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 4 steps, then Turn left 90 degrees;The item you need is at your Middle lower."
+    },
+    {
+        "Image_index": 80,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: chips, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the right of the shelf, please turn left 90 degrees;The item you need is at your Front."
+    },
+    {
+        "Image_index": 81,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: red wine, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 3 steps, then Turn right 90 degrees;Please Move forward 2 steps, then Remain standing;The item you need is at your Middle upper."
+    },
+    {
+        "Image_index": 82,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: tomato, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the right of the shelf, please turn left 90 degrees;The item you need is at your Middle upper."
+    },
+    {
+        "Image_index": 83,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: refrigerated fruits, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 5 steps, then Turn left 90 degrees;Please Move forward 1 steps, then Remain standing;The item you need is at your Front."
+    },
+    {
+        "Image_index": 84,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: Gun Mug, please provide guidance for me based on the scene in the image.",
+        "Answer": "You are standing to the right of the shelf, please turn left 90 degrees;The item you need is at your Front."
+    },
+    {
+        "Image_index": 85,
+        "Question": "Hello, I am visually impaired and need your assistance to complete the task of 'obtaining a product‘.Here is where I stand, and the scene depicted in the image is the view in front of me.Please provide a guide for me to obtain the product I need based on the scene in the image.First, please tell me: is the product I need present in the field of view of the image?Second, please tell me: is there a walkable passage in front of me?Third, please tell me: how should I go about obtaining the product I need? For instance, I could take about 5 steps forward, then turn 90 degrees to the right, take about 3 steps forward, and then reach up to the right to get the milk.The product I need is: refrigerated fruits, please provide guidance for me based on the scene in the image.",
+        "Answer": "Starting from the current position;Please Move forward 3 steps, then Turn right 45 degrees;The item you need is at your Right."
+    }
+]

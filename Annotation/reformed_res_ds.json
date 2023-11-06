@@ -1,0 +1,92 @@
+[
+    {
+        "img_id": 48,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/48.jpg",
+        "product": "banana",
+        "prediction_i": "Sure, I'd be happy to help you find the banana you need. Based on the scene in the image, it appears that there are several bananas present in the produce section of the grocery store. To find the banana you need, you can follow the walkable passage in front of you and look for the section where the bananas are typically displayed. You may need to ask an employee if you're unsure of where to find them. Once you find the bananas, you can pick one off the shelf or from the display and take it with you to complete your purchase.",
+        "ground truth": "Starting from the current position;Please Move forward 3 steps, then Turn right 45 degrees;The item you need is at your Front.",
+        "score_vis": 1,
+        "score_guidance": 0.7
+    },
+    {
+        "img_id": 69,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/69.jpg",
+        "product": "snacks",
+        "prediction_i": "Sure, I'd be happy to assist you. Based on the image, it appears that there is a section of the store dedicated to snacks, which is located to the right of the image. To get there, you would need to follow the walkable passage that is present in front of you. As you walk down this passage, you will see the shelves filled with various types of snacks. To obtain the product you need, simply navigate to the section of the store that sells snacks and look for the specific type of snack you want to purchase. Is there anything else I can help you with?",
+        "ground truth": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Left.",
+        "score_vis": 1,
+        "score_guidance": 0.6
+    },
+    {
+        "img_id": 66,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/66.jpg",
+        "product": "basin",
+        "prediction_i": "The product you need is a basin, which is not present in the image. There is no walkable passage in front of you. To obtain the basin, you should first identify the section of the store where basin are typically displayed, and then navigate to that section using the provided information.",
+        "ground truth": "You are standing to the right of the shelf, please turn left 90 degrees;The item you need is at your Middle upper.",
+        "score_vis": 0,
+        "score_guidance": 0.1
+    },
+    {
+        "img_id": 37,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/37.jpg",
+        "product": "instant noodles",
+        "prediction_i": "Hello! I'm sorry, but as an AI language model, I do not have access to the current image or your location. However, I can provide general guidance on how to navigate a grocery store for someone who is visually impaired.\n\n1. Identify the product you need: Start by identifying the specific product you need, such as instant noodles in this case.\n\n2. Locate the product: Look for the instant noodles section in the grocery store. It is usually located near the canned goods or pasta sections.\n\n3. Walk towards the product: Once you have located the instant noodles, walk towards it. Make sure to maintain a stable and safe walking pace.\n\n4. Reach for the product: When you reach for the instant noodles, make sure to use your dominant hand and keep your other hand close by in case you need to reach for something else.\n\n5. Check the label: Before purchasing the instant noodles, check the label to ensure that you are getting the right product. Look for the ingredients list and any allergen information.\n\n6. Pay for the product: Once you have selected the instant noodles, pay for them at the checkout counter.\n\n7. Carry the product: After paying for the product, carry it to your desired location in the store, such as the checkout area or your car.\n\nI hope this helps you in your shopping experience!",
+        "ground truth": "Starting from the current position;Please Move forward 1 steps, then Turn right 45 degrees;The item you need is at your Front.",
+        "score_vis": 0,
+        "score_guidance": 0.3
+    },
+    {
+        "img_id": 72,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/72.jpg",
+        "product": "biscuits",
+        "prediction_i": "Sure, I'd be happy to help you find the biscuits in the store. Based on the image, it appears that the biscuits are located on the shelves in the aisle that you are standing in. To find the biscuits, you can follow the walkable passage that is in front of you. As you walk down the aisle, you will see various products on the shelves, including biscuits. To locate the specific brand of biscuits you are looking for, you can scan the shelves and look for boxes that have the words \"biscuits\" or \"cookies\" on them. You can also use the shopping basket that is available in the store to carry the biscuits to your desired location. If you have any further questions or need additional assistance, please let me know.",
+        "ground truth": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Middle upper.",
+        "score_vis": 1,
+        "score_guidance": 0.6
+    },
+    {
+        "img_id": 9,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/9.jpg",
+        "product": "bottled water",
+        "prediction_i": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image you are referring to. However, I can provide general guidance on how to navigate a store for a specific product.\n\nTo find the bottled water you need, follow these steps:\n\n1. Identify the location of the bottled water in the store. It is usually found in the refrigerated section of the store if it is a perishable product. If it is a non-perishable product, it may be found in the regular shelves.\n\n2. Look for the bottled water section. If it is not in the refrigerated section, check the regular shelves.\n\n3. Look for the water section in the store. It may be located in a separate section or in the same section as other beverages.\n\n4. Once you find the bottled water, read the labels to ensure you are purchasing the right product. Look for the ingredients, brand name, expiration date, and any other relevant information.\n\n5. If you are unable to find the bottled water in the store, you can ask a store associate for assistance. They may be able to help you locate the product or suggest an alternative product that meets your needs.\n\nRemember to always follow the store's safety guidelines and maintain social distancing while shopping.",
+        "ground truth": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Bottom right.",
+        "score_vis": 0,
+        "score_guidance": 0.5
+    },
+    {
+        "img_id": 38,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/38.jpg",
+        "product": "frozen pork",
+        "prediction_i": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image you are referring to. However, I can provide general guidance on how to navigate a grocery store for a product.\n\nTo find a product in a grocery store, follow these steps:\n\n1. Start by looking at the store's layout and organization. Most grocery stores have a similar layout, with produce, meat, dairy, and other departments. Look for the section that carries the product you need, such as frozen pork.\n\n2. Once you have identified the section, scan the shelves or coolers for the product. If you're looking for frozen pork, you may find it in the freezer section or in a separate freezer area.\n\n3. If you can't find the product, ask an employee for assistance. They can help you locate the product or direct you to another section of the store.\n\n4. When you find the product, read the labels to ensure you are purchasing the correct product. Look for the ingredients list, nutritional information, and any other relevant information.\n\n5. Finally, pay for the product and take it to the checkout area to complete your purchase.\n\nI hope this helps! Let me know if you have any other questions.",
+        "ground truth": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Bottom right.",
+        "score_vis": 0,
+        "score_guidance": 0.5
+    },
+    {
+        "img_id": 73,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/73.jpg",
+        "product": "chocolate favor biscuits",
+        "prediction_i": "Hello! I'm sorry, but as an AI language model, I do not have access to the image you are referring to. Can you please provide me with more information about the image and the product you need? I will do my best to guide you based on the information you provide.",
+        "ground truth": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Front.",
+        "score_vis": 0,
+        "score_guidance": 0.1
+    },
+    {
+        "img_id": 36,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/36.jpg",
+        "product": "biscuits",
+        "prediction_i": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image you are referring to. Can you please provide me with more information about the image you are referring to? This will help me provide you with the necessary guidance to obtain the product you need.",
+        "ground truth": "Starting from the current position;Please Move forward 1 steps, then Turn left 45 degrees;The item you need is at your Top left.",
+        "score_vis": 0,
+        "score_guidance": 0.1
+    },
+    {
+        "img_id": 51,
+        "img_path": "/mnt/zy/projects/report/resized_images_1024_768/51.jpg",
+        "product": "office supplies",
+        "prediction_i": "As an AI language model, I am not able to see the image or have access to information beyond what you have provided. However, I can provide general guidance on how to navigate a store with visually impaired individuals.\n\n1. Identify the product you need: Look at the items on the shelves and make a mental note of the product you need.\n\n2. Determine if the product is present: Check the shelves and see if the product you need is available. If it is not, ask an employee or use a product locator tool if available.\n\n3. Determine the location: If the product is present, use your mental note to locate it on the shelves. If it is not in the first place you look, ask an employee for assistance or use a product locator tool.\n\n4. Walk to the product: Once you have located the product, walk towards it and pick it up. If the product is not accessible, ask an employee for assistance.\n\n5. Pay for the product: Once you have the product, pay for it at the checkout counter.\n\n6. Exit the store: After paying for the product, exit the store and continue on with your day.",
+        "ground truth": "Starting from the current position;Please Move forward 6 steps, then Remain standing;The item you need is at your Left.",
+        "score_vis": 0,
+        "score_guidance": 0.5
+    }
+]

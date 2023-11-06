@@ -1,0 +1,82 @@
+[
+  {
+    "id": "identity_48",
+    "product": "banana",
+    "prediction": "General guidance on how to find bananas in a grocery store.",
+    "ground truth": "Move forward 3 steps, then Turn right 45 degrees; Front.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_69",
+    "product": "snacks",
+    "prediction": "General guidance without specific direction.",
+    "ground truth": "Move forward 2 steps, then Remain standing; Left.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_66",
+    "product": "basin",
+    "prediction": "Cannot determine if there is a basin; general advice.",
+    "ground truth": "Turn left 90 degrees; Middle upper.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_37",
+    "product": "instant noodles",
+    "prediction": "General guidance on how to navigate a grocery store for instant noodles.",
+    "ground truth": "Move forward 1 step, then Turn right 45 degrees; Front.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_72",
+    "product": "biscuits",
+    "prediction": "General tips to find biscuits in a grocery store.",
+    "ground truth": "Turn right 90 degrees; Middle upper.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_9",
+    "product": "bottled water",
+    "prediction": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image you are referring to. Could you please provide me with more information about the image you are referring to? This will help me provide you with the necessary guidance to obtain the bottled water you need.",
+    "ground truth": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Bottom right.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_38",
+    "product": "frozen pork",
+    "prediction": "As an AI language model, I am not able to see the image you are referring to. However, based on your description, it seems that you are looking for frozen pork in a grocery store. Here are some steps you can follow to find the product:\n\n  1. Look for the meat section in the grocery store. This is usually located near the back of the store or in the freezer section.\n  2. Look for signs that say \"frozen pork\" or \"pork\" to help you locate the product.\n  3. If you are having trouble finding the product, ask a store employee for help. They can guide you to the location of the frozen pork.\n  4. Once you have found the frozen pork, you can pick it up and take it to the checkout area to pay for it.\n\nI hope this helps you find the frozen pork you need!",
+    "ground truth": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Bottom right.",
+    "score_vis": 0,
+    "score_guidance": 0.4
+  },
+  {
+    "id": "identity_73",
+    "product": "chocolate favor biscuits",
+    "prediction": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image you are referring to. However, I can provide you with some general guidance on how to navigate a grocery store if you tell me what product you need. Please let me know the name or brand of the chocolate favor biscuits so I can guide you accordingly.",
+    "ground truth": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Front.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_36",
+    "product": "biscuits",
+    "prediction": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image you are referring to. Could you please provide me with more information about the image you are referring to? This will help me provide you with better assistance.",
+    "ground truth": "Starting from the current position;Please Move forward 1 steps, then Turn left 45 degrees;The item you need is at your Top left.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_51",
+    "product": "office supplies",
+    "prediction": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image you are referring to. Can you please provide me with more information about the image you are referring to? This will help me provide you with the necessary guidance to obtain the office supplies you need.",
+    "ground truth": "Starting from the current position;Please Move forward 6 steps, then Remain standing;The item you need is at your Left.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  }
+]

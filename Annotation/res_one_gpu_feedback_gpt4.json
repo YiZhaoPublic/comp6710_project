@@ -1,0 +1,166 @@
+[
+  {
+    "id": "identity_48",
+    "product": "banana",
+    "prediction": "As an AI language model, I do not have access to the current visual information. However, I can provide some general guidance for visually impaired individuals to navigate grocery stores...",
+    "ground truth": "Starting from the current position;Please Move forward 3 steps, then Turn right 45 degrees;The item you need is at your Front.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_69",
+    "product": "snacks",
+    "prediction": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image or your location...",
+    "ground truth": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Left.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_66",
+    "product": "basin",
+    "prediction": "Sure, I'd be happy to assist you. Based on the image, it appears that there is a variety of basins available...",
+    "ground truth": "You are standing to the right of the shelf, please turn left 90 degrees;The item you need is at your Middle upper.",
+    "score_vis": 1,
+    "score_guidance": 0.5
+  },
+  {
+    "id": "identity_37",
+    "product": "instant noodles",
+    "prediction": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image you are referring to...",
+    "ground truth": "Starting from the current position;Please Move forward 1 steps, then Turn right 45 degrees;The item you need is at your Front.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_72",
+    "product": "biscuits",
+    "prediction": "Based on the image, it is not possible to determine if the biscuits are present in the field of view...",
+    "ground truth": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Middle upper.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_9",
+    "product": "bottled water",
+    "prediction": "Sure, I'd be happy to assist you. Based on the image, it appears that there is a selection of bottled water on the shelves, so it is present in the field of view. You are standing in front of the shelves, so you should be able to walk up to the bottled water and pick it off the shelf. Just make sure to use your cane to navigate and avoid any obstacles in your path.",
+    "ground truth": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Bottom right.",
+    "score_vis": 1,
+    "score_guidance": 0.7
+  },
+  {
+    "id": "identity_38",
+    "product": "frozen pork",
+    "prediction": "Hello! I'm sorry, but as an AI language model, I don't have access to the current image or your location. However, I can provide you with some general guidance on how to navigate a grocery store if you tell me your starting point and the product you need.",
+    "ground truth": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Bottom right.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_73",
+    "product": "chocolate favor biscuits",
+    "prediction": "Sure, I'd be happy to help you locate the chocolate favor biscuits in the image. Please follow the steps below:\n\n  1. Is the product you need present in the field of view of the image? a. Yes, the chocolate favor biscuits are present in the image.\n  2. Is there a walkable passage in front of you? a. Yes, there is a walkable passage in front of you.\n  3. How should you go about obtaining the product you need? a. To obtain the chocolate favor biscuits, you should walk down the walkable passage until you reach the aisle where the product is displayed. You can then identify the shelf with the chocolate favor biscuits and take them from there. If you have any further questions or need assistance, please let me know.",
+    "ground truth": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Front.",
+    "score_vis": 1,
+    "score_guidance": 0.5
+  },
+  {
+    "id": "identity_36",
+    "product": "biscuits",
+    "prediction": "Sure, I'd be happy to assist you. Based on the image, it appears that the product you need (biscuits) are present in the store. However, I cannot see the specific location of the biscuits in the image, so I will need some guidance from you on where to look for them. As for the walkable passage, it is not explicitly described in the image, but I can assume that there is a walkable passage in front of you that you can use to navigate through the store. To obtain the biscuits, you can follow the walkable passage and look for the biscuits on the shelves or in the aisles. If you need further assistance, please let me know.",
+    "ground truth": "Starting from the current position;Please Move forward 1 steps, then Turn left 45 degrees;The item you need is at your Top left.",
+    "score_vis": 1,
+    "score_guidance": 0.3
+  },
+  {
+    "id": "identity_51",
+    "product": "office supplies",
+    "prediction": "Sure, I'd be happy to assist you. Based on the image, it appears that you are standing in front of a store with several shelves of office supplies. To obtain the product you need, you should first identify the specific type of office supply you need, such as a particular type of pen or paper. Once you have identified the item, you can navigate to the appropriate shelf and look for it among the various products. If you are unable to find the item on the shelf, you may need to ask an employee for assistance. It is also important to note that there are chairs and a table in the store, which you can use to sit and rest if needed.",
+    "ground truth": "Starting from the current position;Please Move forward 6 steps, then Remain standing;The item you need is at your Left.",
+    "score_vis": 1,
+    "score_guidance": 0.4
+  },
+  {
+    "id": "identity_49",
+    "product": "bowls",
+    "prediction": "The image shows a grocery store with a shopping cart in the middle of the aisle. The shopping cart is empty. The scene is not clear about the presence of bowls in the image. Therefore, I cannot provide guidance on how to obtain the product. However, if you are looking for bowls, you can start by looking at the shelves that are typically located near the kitchen section of the store. You can also ask the store staff for assistance in locating the bowls.",
+    "ground truth": "You are standing to the right of the shelf, please turn left 90 degrees;Please Move forward 2 steps, then Remain standing;The item you need is at your Front.",
+    "score_vis": 0,
+    "score_guidance": 0.4
+  },
+  {
+    "id": "identity_31",
+    "product": "something to drink",
+    "prediction": "Sure, I'd be happy to assist you. Can you please tell me the name or type of the product you need? That will help me provide you with better guidance.",
+    "ground truth": "Starting from the current position;Please Move forward 4 steps, then Remain standing;The item you need is at your Front.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_47",
+    "product": "snacks",
+    "prediction": "Sure, I'd be happy to assist you. Please let me know where you are in the store and I'll guide you to the location of the snacks.",
+    "ground truth": "Starting from the current position;Please Move forward 3 steps, then Turn left 45 degrees;The item you need is at your Left.",
+    "score_vis": 0,
+    "score_guidance": 0.2
+  },
+  {
+    "id": "identity_21",
+    "product": "mustard",
+    "prediction": "Hello! I'm sorry, but I cannot see the image you are referring to. Can you please provide more information or rephrase your question?",
+    "ground truth": "You are standing to the right of the shelf, please turn left 90 degrees;Please Move forward 1 steps, then Remain standing;The item you need is at your Left.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_32",
+    "product": "cooking oil",
+    "prediction": "Hello! I'm sorry, but I am unable to assist you with your task as I do not have access to the image you are referring to. Can you please provide me with more information about the image and the product you need? I will do my best to guide you based on the information you provide.",
+    "ground truth": "Starting from the current position;Please Move forward 6 steps, then Turn left 45 degrees;The item you need is at your Left.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_78",
+    "product": "bread",
+    "prediction": "As an AI, I am not able to provide you with a physical guide as I do not have access to the current image...",
+    "ground truth": "Starting from the current position;Please Move forward 2 steps, then Remain standing;The item you need is at your Front.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_74",
+    "product": "fruits",
+    "prediction": "As an AI, I am not able to see the image you are referring to. However, I can provide general guidance on how to navigate a grocery store visually impaired...",
+    "ground truth": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Front.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_18",
+    "product": "frozen food",
+    "prediction": "Hello! I am sorry, but I cannot provide assistance as I do not have access to the image you are referring to...",
+    "ground truth": "You are standing in front of the shelf, no need to move forward or backward;The item you need is at your Middle lower.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_85",
+    "product": "refrigerated fruits",
+    "prediction": "Sure, I'd be happy to assist you. Please provide me with the details of the image so I can guide you accordingly.",
+    "ground truth": "Starting from the current position;Please Move forward 3 steps, then Turn right 45 degrees;The item you need is at your Right.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  },
+  {
+    "id": "identity_13",
+    "product": "frozen fish",
+    "prediction": "Hello! I am sorry, but as an AI language model, I do not have access to the current image you are referring to...",
+    "ground truth": "You are standing to the left of the shelf, please turn right 90 degrees;The item you need is at your Middle lower.",
+    "score_vis": 0,
+    "score_guidance": 0.1
+  }
+]
+
+
+
+
